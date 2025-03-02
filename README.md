@@ -1,6 +1,6 @@
 <table align="center">
         <td align="center" width="25%">
-[            <img src="./Assets/Images/Logo1.jpg" alt="Tower Defense - Consciencia Ambiental">](https://imgur.com/a/16t1acw)
+                ![Alt text] (https://imgur.com/a/16t1acw)
         <td align="center" width="75%">
             
 
