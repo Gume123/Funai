@@ -1,12 +1,11 @@
-<table align="center">
-        <td align="center" width="25%">
-                ![Alt text] (https://imgur.com/a/16t1acw)
-        <td align="center" width="75%">
-            
-
-# Tower Defense - Consciência Ambiental
-
+<table>
+  <tr>
+    <td><h1>Tower Defense - Consciência Ambiental</h1></td>
+    <td><img src="Logo1.jpg" alt="Logo Tower Defense" width="200"></td>
+  </tr>
 </table>
+
+
 
 ## 🌱 Sobre o Projeto
 Este projeto é um jogo do tipo Tower Defense , desenvolvido em C# utilizando a engine Unity . Inspirado nos Objetivos de Desenvolvimento Sustentável (ODS) , o jogo busca conscientizar os jogadores sobre os impactos ambientais causados pelo garimpo ilegal . Através de mecânicas envolventes, os jogadores devem proteger o meio ambiente posicionando torres estratégicas para deter inimigos que representam ameaças ao ecossistema.
